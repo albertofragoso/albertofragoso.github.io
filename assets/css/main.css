@@ -1041,6 +1041,7 @@
 
 		#bg {
 			background-size: cover;
+			background-position: -600px;
 			width: 1237.5px;
 		}
 
